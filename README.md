@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m software engineering student **alx**
+- 🔭 I’m certified in software engineering **alx**
 
 - 🌱 I’m currently learning **frameworks, online courses**
 
-- 👯 I’m looking to collaborate on **alx**
+- 👯 I’m looking to collaborate on **Software projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sineworknegasi](https://github.com/Sineworknegasi)
 
